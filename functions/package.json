@@ -14,8 +14,8 @@
   "dependencies": {
     "download-google-spreadsheet": "^0.1.1",
     "express": "^4.17.1",
-    "firebase-admin": "^8.0.0",
-    "firebase-functions": "^3.1.0",
+    "firebase-admin": "^11.4.1",
+    "firebase-functions": "^3.24.1",
     "google-spreadsheet": "^2.0.8",
     "googleapis": "^43.0.0",
     "xlsx": "^0.15.1"
